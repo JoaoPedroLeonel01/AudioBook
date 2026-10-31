@@ -34,4 +34,4 @@ Estado em 2026-10-21. Status: ✅ concluída · ⚠️ concluída com validaçã
 - Deploy target iOS 27.0 (herdado do projeto).
 
 ## Próximo passo sugerido
-Instalar em iPhone físico e executar a checklist da seção "Não validado"; depois conectar o repositório remoto (git já inicializado, sem commits).
+Instalar em iPhone físico e executar a checklist da seção "Não validado", incluindo a voz neural Piper (Cadu) com tela bloqueada. Repositório: https://github.com/JoaoPedroLeonel01/AudioBook
