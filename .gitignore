@@ -1,0 +1,8 @@
+# Voz Miro (Piper, CC BY-NC-SA 4.0): só para uso pessoal, não vai para o Git nem para a loja.
+PiperVoices/miro-high/
+
+# Estado pessoal do Xcode e do macOS
+xcuserdata/
+.DS_Store
+DerivedData/
+build/
